@@ -1,3 +1,4 @@
+/*
 package ru.KodinMD.NauJava.console;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -71,3 +72,4 @@ public class CmdProcessor {
         return "№" + password.getId() + " " + password.getValue() + " [" + password.getAlgorithm() + ", " + password.getLength() + ", " + password.getCreatedAt() + "]";
     }
 }
+*/
