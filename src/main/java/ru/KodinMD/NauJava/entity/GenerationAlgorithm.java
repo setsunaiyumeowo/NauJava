@@ -1,10 +1,7 @@
 package ru.KodinMD.NauJava.entity;
-
 import jakarta.persistence.*;
-
 import java.util.ArrayList;
 import java.util.List;
-
 @Entity
 @Table(name = "generation_algorithms")
 public class GenerationAlgorithm {

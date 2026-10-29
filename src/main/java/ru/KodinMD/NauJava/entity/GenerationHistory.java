@@ -2,7 +2,6 @@ package ru.KodinMD.NauJava.entity;
 import jakarta.persistence.*;
 import jakarta.persistence.Entity;
 import java.time.LocalDateTime;
-
 @Entity
 @Table(name = "generation_history")
 public class GenerationHistory {
